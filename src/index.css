@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+    :root {
+      --primary-color: #f0c14b; /* A shade of yellow, similar to Amazon's */
+      --primary-shade: #d4a734; /* A darker shade of yellow */
+    }
+    
